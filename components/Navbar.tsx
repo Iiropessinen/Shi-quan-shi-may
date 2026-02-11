@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import { Menu, X, Phone, Clock } from 'lucide-react';
+import { Menu, X, Phone } from 'lucide-react';
 import { RESTAURANT_NAME, PHONE } from '../constants';
 
 interface NavbarProps {
